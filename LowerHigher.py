@@ -5,7 +5,7 @@ name = input()
 
 secretNumber = random.randint(1, 20)
 
-print("okay " + name + " please make a guess form 1 to 20")
+print("okay " + name + ",please make a guess form 1 to 20")
 
 
 for number in range(1,7):
